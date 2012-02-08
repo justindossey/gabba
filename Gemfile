@@ -5,3 +5,5 @@ gemspec
 
 gem 'minitest'
 gem 'webmock'
+
+gem 'net-http-persistent'
